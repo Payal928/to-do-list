@@ -1,4 +1,4 @@
-to-do-list
+To-do-list
 
 A clean and modern To-Do List Web Application built using Flask.
 
