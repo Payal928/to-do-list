@@ -8,6 +8,7 @@ Powered by SQLAlchemy ORM for efficient database handling.
 
 Designed with a simple, intuitive UI for a seamless user experience.
 
+
 - Key Highlights
 
 Minimal and user-friendly web interface
@@ -20,6 +21,7 @@ Lightweight and fast performance
 
 Neatly structured project folders
 
+
 - Core Features
 
 ➕ Add Tasks instantly
@@ -31,6 +33,7 @@ Neatly structured project folders
 📋 Display All Tasks in a clean table layout
 
 💾 Auto-Save Changes using SQLAlchemy
+
 
  - Project Structure Overview
 
@@ -46,6 +49,7 @@ static/ – CSS, JS, assets
 
 run.py – Entry point to start the application
 
+
  - 🧰 Technologies Used
 
 Flask – Backend web framework
@@ -58,6 +62,7 @@ HTML5, CSS3, Bootstrap – Frontend design
 
 Python – Core programming language
 
+
  - 🗄 Database Details
 
 Database created using SQLite
@@ -67,6 +72,7 @@ Contains a single table Task with fields:
 id → unique identifier
 
 title → task name
+
 
  - Why This Project?
 
